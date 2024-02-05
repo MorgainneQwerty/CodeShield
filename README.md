@@ -13,7 +13,7 @@ Exemplo de comando no terminal:
 
 bash
 
-python CodeShield.py
+python CodeShield.py```
 
 Certifique-se de ter o Python instalado em sua máquina. Personalize as opções para atender às suas necessidades específicas de senha.
 
